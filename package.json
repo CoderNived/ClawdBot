@@ -1,0 +1,24 @@
+{
+  "name": "clawdbot",
+  "version": "1.0.0",
+  "description": "Build your own slack Agent",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderNived/ClawdBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CoderNived/ClawdBot/issues"
+  },
+  "homepage": "https://github.com/CoderNived/ClawdBot#readme"
+}
